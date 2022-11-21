@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi everyone ! I'm Mathis</h1>
 <h3 align="center">A passionate French web developer !</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif">
+<img align="right" alt="Coding" width="600" src="https://i.imgur.com/7A5ZfPJ.gif">
 <p align="left"> <a href="https://twitter.com/mathizuki" target="blank"><img src="https://img.shields.io/twitter/follow/mathizuki?logo=twitter&style=for-the-badge" alt="mathizuki" /></a> </p>
 
 - 🔭 I’m currently working on **my html**
