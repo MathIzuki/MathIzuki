@@ -23,7 +23,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathizuki&show_icons=true&locale=en&layout=compact" alt="mathizuki" style="background-color:black;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathizuki&show_icons=true&locale=en&layout=compact" alt="mathizuki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathizuki&show_icons=true&locale=en" alt="mathizuki" /></p>
 
