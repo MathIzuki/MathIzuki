@@ -23,5 +23,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathizuki&show_icons=true&locale=en&layout=compact" alt="mathizuki" /></p>
+<p><img align="left" src="[![GitHub Streak](https://streak-stats.demolab.com?user=MathIzuki&theme=dark&hide_border=true)](https://git.io/streak-stats)
+" alt="mathizuki" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathizuki&" alt="mathizuki" /></p>
