@@ -23,6 +23,5 @@
 
 
 
-<p><img align="left" src="[![GitHub Streak](https://streak-stats.demolab.com?user=MathIzuki&theme=dark&hide_border=true)](https://git.io/streak-stats)
-" alt="mathizuki" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MathIzuki&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathizuki&" alt="mathizuki" /></p>
